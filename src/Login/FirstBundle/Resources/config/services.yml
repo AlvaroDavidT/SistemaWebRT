@@ -1,0 +1,4 @@
+services:
+#    login_first.example:
+#        class: Login\FirstBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

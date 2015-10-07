@@ -1,0 +1,7 @@
+login_first:
+    resource: "@LoginFirstBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
